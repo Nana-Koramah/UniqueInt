@@ -1,4 +1,3 @@
-
 # Unique Integer Processor
 
 ## Overview
